@@ -1,5 +1,5 @@
 <h2 align="center"><b>👋 Hi there, I'm Prashant</b></h2>
-I'm a passionate **MERN stack developer** who loves to build scalable and high-performance web applications. I'm always eager to learn and grow as a developer.
+<h3 align="center">I'm a passionate <b>MERN stack developer</b> who loves to build scalable and high-performance web applications. I'm always eager to learn and grow as a developer.</h3>
 <!--
 ### 🚀 Tech Stack
 - 💻 **Frontend**: React.js, HTML5, CSS3, JavaScript, Tailwind CSS
