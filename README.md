@@ -39,11 +39,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+<!--
+![GitHub Streak](https://streak-stats.demolab.com?user=prashant2827268&theme=react)
+-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant2827268&layout=compact&theme=react&date=2025-08-12)
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prashant2827268&theme=react)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant2827268&layout=compact&theme=react)
 
 
 
